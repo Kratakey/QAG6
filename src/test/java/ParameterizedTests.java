@@ -6,7 +6,6 @@ import org.junit.jupiter.params.provider.EnumSource;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.By;
 
-import java.util.List;
 import java.util.stream.Stream;
 
 import static com.codeborne.selenide.Selenide.$;
